@@ -1,22 +1,55 @@
-# Global Air Pollution Analysis in Tableau
+# 🌍 Global Air Pollution Analysis using Tableau
 
-## Overview
-This project analyzes global air pollution trends using Tableau. The visualizations provide insights into pollutant levels, regional disparities, and historical trends.
+📊 This project visualizes global air pollution data using Tableau to uncover geographic disparities, pollutant trends, and historical emission changes. It highlights countries with high pollutant output and enables comparison over time using interactive dashboards.
 
-## Key Features
-- **TreeMap Visualization**: Top 20 countries contributing to global emissions.
-- **FacetGrid Analysis**: Trends of pollutants across regions over decades.
-- **Geographical Mapping**: Distribution of pollutants globally.
-- **Country Comparison**: Analysis of air pollution trends in the United States and China.
+---
 
-## Files Included
-- `airpollution(analysis).twbx`: Tableau workbook containing the visualizations.
-- `A Global Perspective on air pollution.pdf`: Project report detailing the findings.
+## 📁 Project Overview
 
-## How to Use
-1. Download the `.twbx` file.
-2. Open it in Tableau Desktop to explore the visualizations.
-3. Read the PDF report for detailed analysis.
+The goal of this project is to:
 
-## License
-This project is licensed under the MIT License.
+- Analyze global air pollution trends over time
+- Compare pollutant types across countries
+- Highlight regions with significant emission levels
+- Support public awareness and environmental reporting
+
+---
+
+## 🔧 Tools & Technologies
+
+- **Tableau** – For interactive visualizations
+- **Excel** – For data preprocessing
+- **PowerPoint** – Final summary and presentation
+
+---
+
+## 📊 Key Features
+
+<details>
+  <summary>📌 Dashboard Highlights</summary>
+
+- **TreeMap View** – Top 20 countries contributing to global emissions
+- **FacetGrid Charts** – Trends of pollutants over decades across regions
+- **Geospatial Mapping** – Distribution of pollutants globally
+- **Country Comparison** – U.S. vs China air pollution trends
+- **Interactive Filters** – Region, pollutant type, and year
+
+</details>
+
+---
+
+## 📂 Files Included
+
+- `airpollution(analysis).twbx` – Tableau workbook with all dashboards  
+- `Air-Pollution Excel.xlsx` – Cleaned dataset  
+- `A Global Perspective on Air Pollution.pdf` – Final presentation/report  
+- `README.md` – Documentation for this project
+
+---
+
+## 🚀 How to Run
+
+```bash
+# Step 1: Download the .twbx file
+# Step 2: Open it in Tableau Desktop or Tableau Public
+# Step 3: Explore dashboard interactivity and export insights
